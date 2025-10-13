@@ -23,14 +23,14 @@ Calculadora de masa molecular para fórmulas químicas, con interfaz gráfica en
 # *Uso*
 1. Ejecuta el archivo principal:
    Shellpython calculadora.py
-2. Se abrirá una ventana donde puedes ingresar la fórmula química (por ejemplo: H2O, C6H12O6, Fe2(SO4)3, CuSO4·5H2O) y presionar Calcular para obtener la masa molecular.
+2. Se abrirá una ventana donde puedes ingresar la fórmula química (por ejemplo: H2O, C6H12O6, Fe2(SO4)3, CuSO4·5H2O) y presionar "Calcular" para obtener la masa molecular.
 
 # *Ejemplo de entrada*
 
-H2O → Agua
-C6H12O6 → Glucosa
-Fe2(SO4)3 → Sulfato de hierro(III)
-CuSO4·5H2O → Sulfato de cobre(II) pentahidratado
+1. H2O → Agua
+2. C6H12O6 → Glucosa
+3. Fe2(SO4)3 → Sulfato de hierro(III)
+4. CuSO4·5H2O → Sulfato de cobre(II) pentahidratado
 
 *Asegurate de que los elementos estén escritos correctamente, si tiene 2 letras la primera tiene que estar en mayúscula, y si sólo tiene una esta tiene que estar en mayúscula.*
 # *Estructura del proyecto*
